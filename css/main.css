@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+blockquote {
+  border-left: transparent;
+}
+
 /* Vista Splash */
 
 /* Estilos para el elemento body */
@@ -138,6 +142,7 @@ background-color: #96F662;
 .social-media-list li {
   display: inline-block;
   margin-right: 0.8em;
+  margin-right: 0;
 }
 
 .social-media-list a {
@@ -169,6 +174,14 @@ background-color: #96F662;
 
 .dropdown-menu {
   height: 200px;
+}
+
+.dropdown-menu>li>a {
+  padding: 3px 30px;
+}
+
+.dropdown-menu>li>a:hover {
+  padding: 3px 30px;
 }
 
 /* Secciones */
@@ -426,6 +439,11 @@ width: 50px;
 height: 50px;
 }
 
+.user-images {
+  width: 90%;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
 
 /*Zona lateral (Paneles y botones)*/
 

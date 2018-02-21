@@ -81,7 +81,7 @@ $(document).ready(function() {
     var $reader = new FileReader();
     $reader.onload = function(event) {
       var $divsContainer = $('#divs-container');
-      var $div = '<div><img src="_pub_" alt="" class="img-publicaciones center-block img-responsive"></div>';
+      var $div = '<div><img src="_pub_" alt="" class="user-images center-block img-responsive"></div>';
       var $divReplace = $div.replace('_pub_', event.target.result);
       $divsContainer.append($divReplace);
     };

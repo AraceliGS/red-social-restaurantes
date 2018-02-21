@@ -44,8 +44,6 @@ Hoy en día encontrar restaurantes confiables donde se pueda comer rico no es ta
 
 * Github
 
-* Websocket
-
 ## Flujo de la aplicación
 
 * Ingresa  a la vista splash con un tiempo de duración de aproximadamente 5 segundos.
