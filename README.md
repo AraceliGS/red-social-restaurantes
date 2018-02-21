@@ -1,4 +1,4 @@
-# Misky Perú
+# Misky Peru
 
 Esta red social fue creada para que los usuarios obtengan información confiable de nuestra parte o de otros usuarios, garántizandoles una buena experiencia y haciéndolos sentir seguros con la decisión tomada.
 
